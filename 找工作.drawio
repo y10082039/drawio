@@ -159,7 +159,7 @@
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-15" edge="1" parent="1" source="pa2jtTRAjIA5eMIPBB4Q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pa2jtTRAjIA5eMIPBB4Q-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="springboot" vertex="1">
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="springboot、springcloud" vertex="1">
           <mxGeometry height="40" width="120" x="1020" y="220" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="背诵八股文" vertex="1">
