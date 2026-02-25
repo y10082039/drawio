@@ -117,9 +117,6 @@
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-26" edge="1" parent="1" source="pa2jtTRAjIA5eMIPBB4Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pa2jtTRAjIA5eMIPBB4Q-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-27" edge="1" parent="1" source="pa2jtTRAjIA5eMIPBB4Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pa2jtTRAjIA5eMIPBB4Q-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="后端" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="370" as="geometry" />
         </mxCell>
@@ -146,9 +143,6 @@
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="数据库" vertex="1">
           <mxGeometry height="40" width="120" x="830" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="830" y="570" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="背诵八股文" vertex="1">
           <mxGeometry height="40" width="120" x="1030" y="200" as="geometry" />
@@ -223,7 +217,7 @@
           <mxGeometry height="60" width="120" x="640" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="VUE" vertex="1">
-          <mxGeometry height="40" width="120" x="830" y="660" as="geometry" />
+          <mxGeometry height="40" width="120" x="840" y="660" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="cursor" vertex="1">
           <mxGeometry height="40" width="120" x="850" y="1120" as="geometry" />
