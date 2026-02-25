@@ -13,7 +13,7 @@
         <mxCell id="hwLniO7IFupP9zwhhXMf-36" edge="1" parent="1" source="hwLniO7IFupP9zwhhXMf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hwLniO7IFupP9zwhhXMf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hwLniO7IFupP9zwhhXMf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="运营" vertex="1">
+        <mxCell id="hwLniO7IFupP9zwhhXMf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="运维" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="180" as="geometry" />
         </mxCell>
         <mxCell id="hwLniO7IFupP9zwhhXMf-18" edge="1" parent="1" source="hwLniO7IFupP9zwhhXMf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="hwLniO7IFupP9zwhhXMf-7">
@@ -37,11 +37,14 @@
         <mxCell id="hwLniO7IFupP9zwhhXMf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="网络" vertex="1">
           <mxGeometry height="60" width="120" x="210" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="hwLniO7IFupP9zwhhXMf-40" edge="1" parent="1" source="hwLniO7IFupP9zwhhXMf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hwLniO7IFupP9zwhhXMf-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hwLniO7IFupP9zwhhXMf-41" edge="1" parent="1" source="hwLniO7IFupP9zwhhXMf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hwLniO7IFupP9zwhhXMf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hwLniO7IFupP9zwhhXMf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="编一个项目经历" vertex="1">
           <mxGeometry height="60" width="120" x="210" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="hwLniO7IFupP9zwhhXMf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="210" y="450" as="geometry" />
         </mxCell>
         <mxCell id="hwLniO7IFupP9zwhhXMf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="linux 命令" vertex="1">
           <mxGeometry height="20" width="120" x="370" y="-10" as="geometry" />
@@ -81,6 +84,12 @@
         </mxCell>
         <mxCell id="hwLniO7IFupP9zwhhXMf-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Http基础知识" vertex="1">
           <mxGeometry height="20" width="120" x="380" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hwLniO7IFupP9zwhhXMf-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="运维的工作内容" vertex="1">
+          <mxGeometry height="20" width="120" x="380" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hwLniO7IFupP9zwhhXMf-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="遇到的问题" vertex="1">
+          <mxGeometry height="20" width="120" x="380" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
