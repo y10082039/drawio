@@ -108,10 +108,10 @@
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="JAVA" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Java基础" vertex="1">
           <mxGeometry height="40" width="120" x="220" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="springboot" vertex="1">
           <mxGeometry height="40" width="120" x="220" y="200" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
@@ -121,7 +121,16 @@
           <mxGeometry height="40" width="120" x="220" y="390" as="geometry" />
         </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="40" width="120" x="230" y="480" as="geometry" />
+          <mxGeometry height="40" width="120" x="220" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="背诵八股文" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="增删改查" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="运行逻辑" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
