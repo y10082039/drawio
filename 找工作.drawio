@@ -198,6 +198,9 @@
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="JAVA" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="340" as="geometry" />
         </mxCell>
+        <mxCell id="pa2jtTRAjIA5eMIPBB4Q-35" edge="1" parent="1" source="pa2jtTRAjIA5eMIPBB4Q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pa2jtTRAjIA5eMIPBB4Q-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pa2jtTRAjIA5eMIPBB4Q-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="前端" vertex="1">
           <mxGeometry height="60" width="120" x="400" y="470" as="geometry" />
         </mxCell>
